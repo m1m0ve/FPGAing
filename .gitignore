@@ -1,6 +1,7 @@
-./pyusb/
-./__pycache__/
-./adu_python_libusb/
-./ed_digilent_adept/
-./env/
-./*.swp/
+pyusb/
+__pycache__/
+adu_python_libusb/
+ed_digilent_adept/
+env/
+*.swp/
+*.py.swp
